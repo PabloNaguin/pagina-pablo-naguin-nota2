@@ -1,0 +1,30 @@
+#sintoniaimg{
+    width: 100%;
+    align-items: center;
+    padding-left: 150px;
+    text-align: center;
+}
+
+.text-center{
+    padding-top: 10px;
+}
+
+.img-fluid2{
+    padding-bottom: 200px;
+}
+
+.imagen{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.lamasdulce{
+    font-weight: 1000px;
+    font-family: Consolas, monaco, monospace  ;
+    font-size: 300px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-color: #ff004e;
+    color: white;
+}

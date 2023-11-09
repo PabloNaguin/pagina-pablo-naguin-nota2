@@ -1,0 +1,49 @@
+.navbar-nav{
+    font-family: 'roboto', sans-serif;
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+
+
+.container-fluid{
+    padding-right: 50px;
+}
+
+
+.text-center > img{
+    width: 1000px;
+
+}
+
+.col{
+    margin-bottom: 200px;
+}
+
+
+.container{
+
+    justify-content: center;
+    text-align: center;
+    height: 250px;
+}
+
+.row{
+    padding-top: 70px;
+    margin-left: 10px;
+    margin-right: 30px;
+    align-items: center;
+
+}
+
+.img-logo{
+    width: 100px;
+    padding-bottom: 25px;
+    margin-left: 100px;
+}
+
+.img-fluid2{
+    padding-top: 100px;
+}
+
+
+
